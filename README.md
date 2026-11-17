@@ -9,6 +9,11 @@ JavaScriptで制作したターン制バトルRPGです。
 攻撃やスキル、ポーションを駆使して敵を倒し、全ステージクリアを目指します。
 
 
+## 🎮 ゲームをプレイ
+
+[CAVE ADVENTUREをプレイする](https://gamichi-works.github.io/cave-adventure/)
+
+  
 ## 🛠 使用技術
 
 - HTML
